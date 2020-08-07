@@ -3,7 +3,7 @@ title: "Interview for the 'Ciência em Movimento' program"
 collection: talks
 type: "Interview"
 permalink: /talks/2020-06-26-cienciaemmovimento
-venue: "Tv Ciência em Movimento cannel on Youtube"
+venue: "Tv Ciência em Movimento channel on Youtube"
 date: 2020-06-26
 location: "Petrópolis/RJ, Brazil"
 video: "https://www.youtube.com/watch?v=XImruypZbMU"
