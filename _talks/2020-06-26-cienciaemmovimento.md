@@ -9,4 +9,4 @@ location: "Petrópolis/RJ, Brazil"
 video: "https://www.youtube.com/watch?v=XImruypZbMU"
 ---
 
-In this interview I tell a little bit about the Hackovid à Vera project, winner of the 2nd place of Hackcovid19, an online hackathon held in May 2020 by LNCC, CBPF and Fiocruz (in Portuguese)
+In this interview I tell a little bit about the Hackovid à Vera project, winner of the 2nd place of Hackcovid19, an online hackathon held in May 2020 by LNCC, CBPF and Fiocruz (in Portuguese).
